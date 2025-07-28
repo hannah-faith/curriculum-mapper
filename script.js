@@ -3,8 +3,27 @@ document.addEventListener("DOMContentLoaded", () => {
   const gradeSelect = document.getElementById("gradeSelect");
   const courseSelect = document.getElementById("courseSelect");
   let alignmentData = [];
+  const stateDataCache = {};
 
-  // Populate state dropdown
+  // Add placeholder to State dropdown
+  stateSelect.innerHTML = "";
+  const placeholderState = document.createElement("option");
+  placeholderState.value = "";
+  placeholderState.textContent = "Select a state";
+  placeholderState.disabled = true;
+  placeholderState.selected = true;
+  stateSelect.appendChild(placeholderState);
+
+  // Add placeholder to Grade dropdown
+  gradeSelect.innerHTML = "";
+  const placeholderGrade = document.createElement("option");
+  placeholderGrade.value = "";
+  placeholderGrade.textContent = "Select a grade";
+  placeholderGrade.disabled = true;
+  placeholderGrade.selected = true;
+  gradeSelect.appendChild(placeholderGrade);
+
+  // Now populate State dropdown with real options
   const stateNames = [
     "Alabama",
     "Alaska",
@@ -73,17 +92,83 @@ document.addEventListener("DOMContentLoaded", () => {
   courseSelect.addEventListener("change", populateTable);
 
   function loadAlignmentData(state) {
-    // TODO: fetch and parse CSV from `state_alignment/${state}.csv`
-    console.log(`Loading data for state: ${state}`);
+    if (!state) return;
+    const jsonPath = `./state_alignment/${state}.json`;
+    console.log(`Fetching JSON from path: ${jsonPath}`);
+    if (stateDataCache[state]) {
+      alignmentData = stateDataCache[state];
+      populateGrades();
+      return;
+    }
+    fetch(jsonPath)
+      .then((response) => {
+        if (!response.ok) throw new Error(response.statusText);
+        return response.json();
+      })
+      .then((data) => {
+        alignmentData = data;
+        stateDataCache[state] = data;
+        populateGrades();
+      })
+      .catch((err) => {
+        console.error(`Error loading JSON for state ${state}:`, err);
+        alert(`Could not load data for ${state}. Check console.`);
+      });
   }
 
   function populateGrades() {
-    // TODO: extract unique grades and populate gradeSelect
-    console.log("Populating grades dropdown");
+    gradeSelect.innerHTML = "";
+    const placeholder = document.createElement("option");
+    placeholder.value = "";
+    placeholder.textContent = "Select a grade";
+    placeholder.disabled = true;
+    placeholder.selected = true;
+    gradeSelect.appendChild(placeholder);
+
+    const grades = Object.keys(alignmentData);
+    grades.sort((a, b) => {
+      const na = parseFloat(a),
+        nb = parseFloat(b);
+      if (!isNaN(na) && !isNaN(nb)) return na - nb;
+      return a.localeCompare(b);
+    });
+    grades.forEach((g) => {
+      const opt = document.createElement("option");
+      opt.value = g;
+      opt.textContent = g;
+      gradeSelect.appendChild(opt);
+    });
   }
 
   function populateTable() {
-    // TODO: filter alignmentData by selected grade and course and render rows
-    console.log("Populating table with filtered data");
+    const selectedGrade = gradeSelect.value;
+    const selectedCourse = courseSelect.value;
+    const tbody = document.querySelector("#alignmentTable tbody");
+    tbody.innerHTML = "";
+    if (!selectedGrade || !alignmentData[selectedGrade]) return;
+
+    alignmentData[selectedGrade].forEach((stdObj) => {
+      const tr = document.createElement("tr");
+
+      const tdStd = document.createElement("td");
+      tdStd.textContent = `${stdObj.id} ${stdObj.text}`;
+
+      const tdChk = document.createElement("td");
+      const cb = document.createElement("input");
+      cb.type = "checkbox";
+      const matching = stdObj.projects
+        .filter((p) => !selectedCourse || p.course === selectedCourse)
+        .map((p) => p.name);
+      cb.checked = matching.length > 0;
+      tdChk.appendChild(cb);
+
+      const tdProj = document.createElement("td");
+      tdProj.innerHTML = matching.map((name) => `<div>${name}</div>`).join("");
+
+      tr.appendChild(tdStd);
+      tr.appendChild(tdChk);
+      tr.appendChild(tdProj);
+      tbody.appendChild(tr);
+    });
   }
 });
