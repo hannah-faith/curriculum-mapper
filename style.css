@@ -1,36 +1,57 @@
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin: 20px;
+  background-color: #f4f6f9;
+  color: #333;
 }
 
 #controls {
   margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
 }
 
 #controls select {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 14px;
+  background-color: #fff;
   margin-right: 10px;
 }
 
 #alignmentTable {
   width: 100%;
   border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  border-radius: 6px;
+  overflow: hidden;
 }
 
 #alignmentTable th,
 #alignmentTable td {
-  border: 1px solid #ccc;
-  padding: 8px;
+  border: none;
+  padding: 12px 10px;
   text-align: left;
+}
+
+#alignmentTable th {
+  background-color: #eaf0f6;
+  font-weight: bold;
+  color: #333;
 }
 
 /* Zebra striping for readability */
 #alignmentTable tbody tr:nth-child(even) {
-  background-color: #f9f9f9;
+  background-color: #f7f9fb;
 }
 
 /* Hover highlight */
 #alignmentTable tbody tr:hover {
-  background-color: #e6f7ff;
+  background-color: #e0f0ff;
 }
 
 /* Align cells to top and constrain column widths */
@@ -45,14 +66,16 @@ body {
   text-align: center;
 }
 
-/* Give the Alignment column a bit more room */
+/* Give the Alignment column a bit more room and enable multi-column layout for long project lists */
 #alignmentTable th:nth-child(3),
 #alignmentTable td:nth-child(3) {
   width: 250px;
+  column-count: 2;
+  column-gap: 2rem;
 }
 
-/* Set Standard column width to 50% */
+/* Set Standard column width to 37.5% */
 #alignmentTable th:nth-child(1),
 #alignmentTable td:nth-child(1) {
-  width: 50%;
+  width: 37.5%;
 }

@@ -106,8 +106,38 @@ document.addEventListener("DOMContentLoaded", () => {
         return response.json();
       })
       .then((data) => {
-        alignmentData = data;
-        stateDataCache[state] = data;
+        let grouped = {};
+        if (Array.isArray(data)) {
+          // Group rows by grade, then by standard, collecting projects
+          data.forEach((row) => {
+            const grade = row.Grade;
+            if (!grouped[grade]) grouped[grade] = {};
+            const key = row["Standard ID"] + "||" + row["Standard Text"];
+            if (!grouped[grade][key]) {
+              grouped[grade][key] = {
+                id: row["Standard ID"],
+                text: row["Standard Text"],
+                projects: [],
+              };
+            }
+            if (row["Project Name"]) {
+              grouped[grade][key].projects.push({
+                name: row["Project Name"],
+                course: row["Course Name"],
+              });
+            }
+          });
+          // Convert nested maps to arrays
+          Object.keys(grouped).forEach((gr) => {
+            grouped[gr] = Object.values(grouped[gr]);
+          });
+        } else {
+          // Already in grouped format
+          grouped = data;
+        }
+        alignmentData = grouped;
+        console.log("Grade keys in loaded data:", Object.keys(grouped));
+        stateDataCache[state] = grouped;
         populateGrades();
       })
       .catch((err) => {
@@ -143,12 +173,20 @@ document.addEventListener("DOMContentLoaded", () => {
   function populateTable() {
     const selectedGrade = gradeSelect.value;
     const selectedCourse = courseSelect.value;
+    console.log("Selected grade:", selectedGrade);
+    console.log("Selected course:", selectedCourse);
     const tbody = document.querySelector("#alignmentTable tbody");
     tbody.innerHTML = "";
-    if (!selectedGrade || !selectedCourse || !alignmentData[selectedGrade])
-      return;
+    if (!selectedGrade || !alignmentData[selectedGrade]) return;
+    if (!selectedCourse) return;
 
-    alignmentData[selectedGrade].forEach((stdObj) => {
+    const sortedStandards = alignmentData[selectedGrade]
+      .slice()
+      .sort((a, b) => {
+        return a.id.localeCompare(b.id);
+      });
+
+    sortedStandards.forEach((stdObj) => {
       const tr = document.createElement("tr");
 
       const tdStd = document.createElement("td");
@@ -158,19 +196,56 @@ document.addEventListener("DOMContentLoaded", () => {
       const cb = document.createElement("input");
       cb.type = "checkbox";
       const matching = stdObj.projects
-        .filter((p) => !selectedCourse || p.course === selectedCourse)
+        .filter(
+          (p) =>
+            selectedCourse &&
+            p.course &&
+            p.course.trim().toLowerCase() ===
+              selectedCourse.trim().toLowerCase()
+        )
         .map((p) => p.name);
       cb.checked = matching.length > 0;
       cb.disabled = true;
       tdChk.appendChild(cb);
 
       const tdProj = document.createElement("td");
-      tdProj.innerHTML = matching.map((name) => `<div>${name}</div>`).join("");
-
+      tdProj.innerHTML = matching
+        .join(", ")
+        .split(",")
+        .map((name) => `<div>${name.trim()}</div>`)
+        .join("");
       tr.appendChild(tdStd);
       tr.appendChild(tdChk);
       tr.appendChild(tdProj);
       tbody.appendChild(tr);
     });
+    // Summary row: alignment percentage
+    const totalStandards = alignmentData[selectedGrade].length;
+    const alignedStandards = alignmentData[selectedGrade].filter((stdObj) => {
+      const matching = stdObj.projects.filter(
+        (p) =>
+          selectedCourse &&
+          p.course &&
+          p.course.trim().toLowerCase() === selectedCourse.trim().toLowerCase()
+      );
+      return matching.length > 0;
+    }).length;
+    const percent = ((alignedStandards / totalStandards) * 100).toFixed(1);
+
+    const summaryTr = document.createElement("tr");
+    const tdSummary = document.createElement("td");
+    tdSummary.textContent = "Alignment Summary";
+    tdSummary.style.fontWeight = "bold";
+    summaryTr.appendChild(tdSummary);
+
+    const tdCount = document.createElement("td");
+    tdCount.textContent = `${alignedStandards} / ${totalStandards}`;
+    summaryTr.appendChild(tdCount);
+
+    const tdPercent = document.createElement("td");
+    tdPercent.textContent = `${percent}%`;
+    summaryTr.appendChild(tdPercent);
+
+    tbody.appendChild(summaryTr);
   }
 });
