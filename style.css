@@ -22,3 +22,37 @@ body {
   padding: 8px;
   text-align: left;
 }
+
+/* Zebra striping for readability */
+#alignmentTable tbody tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+/* Hover highlight */
+#alignmentTable tbody tr:hover {
+  background-color: #e6f7ff;
+}
+
+/* Align cells to top and constrain column widths */
+#alignmentTable td {
+  vertical-align: top;
+}
+
+/* Narrow the Include column and center its content */
+#alignmentTable th:nth-child(2),
+#alignmentTable td:nth-child(2) {
+  width: 60px;
+  text-align: center;
+}
+
+/* Give the Alignment column a bit more room */
+#alignmentTable th:nth-child(3),
+#alignmentTable td:nth-child(3) {
+  width: 250px;
+}
+
+/* Set Standard column width to 50% */
+#alignmentTable th:nth-child(1),
+#alignmentTable td:nth-child(1) {
+  width: 50%;
+}

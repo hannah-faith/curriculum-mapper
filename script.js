@@ -145,7 +145,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const selectedCourse = courseSelect.value;
     const tbody = document.querySelector("#alignmentTable tbody");
     tbody.innerHTML = "";
-    if (!selectedGrade || !alignmentData[selectedGrade]) return;
+    if (!selectedGrade || !selectedCourse || !alignmentData[selectedGrade])
+      return;
 
     alignmentData[selectedGrade].forEach((stdObj) => {
       const tr = document.createElement("tr");
@@ -160,6 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
         .filter((p) => !selectedCourse || p.course === selectedCourse)
         .map((p) => p.name);
       cb.checked = matching.length > 0;
+      cb.disabled = true;
       tdChk.appendChild(cb);
 
       const tdProj = document.createElement("td");
