@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#controls {
+  margin-bottom: 20px;
+}
+
+#controls select {
+  margin-right: 10px;
+}
+
+#alignmentTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#alignmentTable th,
+#alignmentTable td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
