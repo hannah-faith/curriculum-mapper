@@ -195,21 +195,37 @@ document.addEventListener("DOMContentLoaded", () => {
       const tdChk = document.createElement("td");
       const cb = document.createElement("input");
       cb.type = "checkbox";
-      const matching = stdObj.projects
-        .filter(
-          (p) =>
-            selectedCourse &&
-            p.course &&
-            p.course.trim().toLowerCase() ===
-              selectedCourse.trim().toLowerCase()
-        )
-        .map((p) => p.name);
-      cb.checked = matching.length > 0;
+      // Only include non-empty project names for the selected course
+      const matchingProjects = stdObj.projects.filter((p) => {
+        const courseMatch =
+          selectedCourse &&
+          p.course &&
+          p.course.trim().toLowerCase() === selectedCourse.trim().toLowerCase();
+        const name = p.name;
+        const hasName =
+          (typeof name === "string" && name.trim() !== "") ||
+          (Array.isArray(name) && name.length > 0);
+        return courseMatch && hasName;
+      });
+      // Checkbox reflects whether there is at least one non-empty project
+      cb.checked = matchingProjects.length > 0;
       cb.disabled = true;
       tdChk.appendChild(cb);
+      // Build a flat list of non-empty project names (handle strings or arrays)
+      const projectNames = matchingProjects.flatMap((p) => {
+        if (typeof p.name === "string" && p.name.trim() !== "") {
+          return [p.name.trim()];
+        }
+        if (Array.isArray(p.name)) {
+          return p.name
+            .filter((n) => typeof n === "string" && n.trim() !== "")
+            .map((n) => n.trim());
+        }
+        return [];
+      });
 
       const tdProj = document.createElement("td");
-      tdProj.innerHTML = matching
+      tdProj.innerHTML = projectNames
         .join(", ")
         .split(",")
         .map((name) => `<div>${name.trim()}</div>`)
@@ -219,16 +235,21 @@ document.addEventListener("DOMContentLoaded", () => {
       tr.appendChild(tdProj);
       tbody.appendChild(tr);
     });
-    // Summary row: alignment percentage
-    const totalStandards = alignmentData[selectedGrade].length;
-    const alignedStandards = alignmentData[selectedGrade].filter((stdObj) => {
-      const matching = stdObj.projects.filter(
-        (p) =>
+    // Calculate summary using the same non-empty matchingProjects logic
+    const totalStandards = sortedStandards.length;
+    const alignedStandards = sortedStandards.filter((stdObj) => {
+      const matchingProjects = stdObj.projects.filter((p) => {
+        const courseMatch =
           selectedCourse &&
           p.course &&
-          p.course.trim().toLowerCase() === selectedCourse.trim().toLowerCase()
-      );
-      return matching.length > 0;
+          p.course.trim().toLowerCase() === selectedCourse.trim().toLowerCase();
+        const name = p.name;
+        const hasName =
+          (typeof name === "string" && name.trim() !== "") ||
+          (Array.isArray(name) && name.length > 0);
+        return courseMatch && hasName;
+      });
+      return matchingProjects.length > 0;
     }).length;
     const percent = ((alignedStandards / totalStandards) * 100).toFixed(1);
 

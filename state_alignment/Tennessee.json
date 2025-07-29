@@ -1,0 +1,546 @@
+[
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "1.1",
+    "Standard Text": "Accurately read, interpret, and demonstrate adherence to safety rules, including rules published by the (1) National Science Teachers Association (NSTA), (2) rules pertaining to electrical safety, (3) Internet safety, (4) Occupational Safety and Health Administration (OSHA) guidelines, and (5) state and national code requirements. Be able to distinguish between rules and explain why certain rules apply. ",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "2.1",
+    "Standard Text": "Create a questionnaire and conduct an interview with a client to gather specific information to guide the web development project. Develop interview questions that will determine the purpose; target audience; branding and perception goals; content sources; and any factors that will affect the project schedule. ",
+    "Course Name": "Web Development",
+    "Project Name": ["4.4 Personality Quizmaker", "4.5 Passion Project"]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "2.2",
+    "Standard Text": "Using the information gathered from the client interview, write a project brief that identifies the goals, audience profile, audience perception, primary message of the web site, and the competitive advantage of the client. Allow the client to review the project brief and make corrections based on client feedback.",
+    "Course Name": "Web Development",
+    "Project Name": ["4.4 Personality Quizmaker", "4.5 Passion Project"]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "2.3",
+    "Standard Text": "Research the specifications that will be required to produce a web site that meets the needs of the project brief. Using the findings, produce technical specifications for the web site. For example, the specifications should consider the screen resolution, browser compatibility, download time for the web site, and accessibility.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "5.2 Personal Portfolio",
+      "5.4 Life Frame",
+      "5.3 Code Corporation",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "2.4",
+    "Standard Text": "Demonstrate an understanding of maintenance requirements for a web site that is aligned with the project brief. Develop a plan that thoroughly describes how the site will be consistently updated and reviewed. Write a text explaining the maintenance requirements and plan to a client. For example, a web site maintenance plan should include, but is not limited to, any automated processes for changing content, required training for content contributors, and assignments for specific updates (e.g., keyword, search engine, Meta data, and graphics).",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "3.1",
+    "Standard Text": "Conduct a brainstorming session to solicit a client’s feedback on web site content. Create an outline that organizes the content into categories. Ensure that the outline is aligned with the project brief and that there is space for future expansion. Present the outline to the client for review and approval. For example, use a mind mapping process to capture all the ideas and topics for a web site development project",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.3 Optical Illusions",
+      "2.3 Playlist Creator",
+      "3.3 Epic Mission",
+      "4.3 Mystery Mansion",
+      "5.3 Code Corporation"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "3.2",
+    "Standard Text": "Applying the content outline, develop a diagram that visually represents the web site structure. The site map (or web site wireframe) should show the interconnection of features such as the homepage, links, and content for each link. For example, use software like Google Drawings, Microsoft Visio, OmniGiraffe, Adobe Illustrator, or Microsoft Office to create a web site wireframe.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "3.3",
+    "Standard Text": "Convert the web site wireframes to individual web page wireframes. A wireframe should consider each element (e.g., navigation, images, content, functionality, and footer) and group the information of its corresponding page.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "4.1",
+    "Standard Text": "Explore the use of stock images and demonstrate an understanding of the various types of stock images like stock photography, microstock photography, and free (e.g., open source) images. Identify the advantages and disadvantages of using these images.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.1 I'm Hungry",
+      "1.2 Fan Review",
+      "1.3 Optical Illusions",
+      "1.4 Two Truths One Lie",
+      "1.5 Cheer Up!",
+      "1.6 Passion Project",
+      "2.1 Shopping Spree",
+      "2.2 Restaurant Menu",
+      "2.3 Playlist Creator",
+      "2.4 Endangered Species",
+      "2.5 This or That",
+      "2.6 Passion Project",
+      "3.1 Awards Show",
+      "3.2 Festival Planner",
+      "3.3 Epic Mission",
+      "3.4 Choose Your Fighter",
+      "3.5 Meme Museum",
+      "3.6 Passion Project",
+      "4.1 Digital Pet",
+      "4.2 Postify",
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "4.2",
+    "Standard Text": "Compare and contrast royalty-free and rights-managed licensing and explain how each licensing affects the use of images. Research and describe the process to obtain permission to use copyrighted photography.",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "4.3",
+    "Standard Text": "Investigate multiple photo sharing services and how they embed metadata within images to assist in keyword searches. As a class, create a photo sharing system (class use only) for student-created images that include embedded metadata.",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "5.1",
+    "Standard Text": "Demonstrate an understanding for how specific characteristics affect the quality and size of a digital image. Define the following terminology and explain their effects on digital images: a. pixels, b. color depth, c. resolution, d. palettes, and e. dithering.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.1 I'm Hungry",
+      "1.2 Fan Review",
+      "1.3 Optical Illusions",
+      "1.4 Two Truths One Lie",
+      "1.5 Cheer Up!"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "5.2",
+    "Standard Text": "Compare and contrast raster and vector graphics and provide scenarios when it is best to use each format. Further, explore their applications to vectorbased drawing and paint programs. Describe advantages and disadvantages of using each program type.",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "5.3",
+    "Standard Text": "Research and identify the extensions of various image file formats like Bitmap, Tagged Image File Format, Windows Metafile, Joint Photographic Experts Group, Portable Network Graphics, and Graphics Interchange Format. Describe which file formats are supported by all browsers and which formats require special software or a plug-in to view an image. Explain when it is most appropriate to apply specific image file formats.",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "5.4",
+    "Standard Text": "In teams, investigate image optimization and its importance. Describe how file formats influence image optimization and identify optimization guidelines and sources to apply to web graphics",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "5.5",
+    "Standard Text": "Explain the graphic design concept of composition. Include various applications like visual hierarchy, grouping, visual cues, and integration of elements.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "5.6",
+    "Standard Text": "Explore the use of grid-based layout and why it is used to create coherent, organized web pages. Give examples of when it is suitable to use one-, two-, and three-column layouts to display content. For example, research and discuss how the golden ratio (golden mean) is used to create a design grid.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "5.7",
+    "Standard Text": "Drawing on multiple resources, demonstrate an understanding of typography, including related definitions like measure and lead. Explain a designer’s application of the following typography characteristics to create balance and relationship between elements on a web page. a. Legibility b. Typeface c. Case d. Emphasis e. Type size and accessibility",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "6.1",
+    "Standard Text": "Conduct research to determine how various colors are perceived by specific audiences and cultures. Citing evidence from research findings, explain the following concepts: a. symbols, objects, and images that attract or repel audiences; b. color combinations that complement each other; and c. smooth color transitions and the effects on download time. For example, create a class demonstration showing which colors are most complementary and how many colors define a color scheme.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "6.2",
+    "Standard Text": "Demonstrate an understanding of the relationship between pixels and display color. Explain how black and white are each created using color schemes CMYK (cyan, magenta, yellow, and black) and RGB (red, green, blue) respectively. Furthermore, describe the differences between subtractive and additive colors and how they are applied to print media versus a computer monitor display.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "6.3",
+    "Standard Text": "Consider the two standardized numeric formats for color on the computer screen—RGB values and Hexadecimal code. Compare and contrast the format of values for each and briefly explain how they are applied to represent color.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "7.1",
+    "Standard Text": "In teams, research writing styles on various web sites (include sites of wellknown organizations and companies). Identify characteristics that are consistently used and include examples of what made the text memorable and easy to scan. Use the research findings to create guidelines for the class to apply to upcoming web design and development projects. During the survey of writing styles on the web, take notice of the following: a. location of important information on the page; b. use of bulleted lists and tables; c. length and simplicity of paragraphs; d. headlines and introduction sentences; e. tone and voice used; and f. accuracy of information (current or outdated)",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "7.2",
+    "Standard Text": "Given a specific topic from a web development project, write content for a web page and apply the class writing guidelines. Proofread and rewrite the content to align with the class guidelines. Give the writing assignment to multiple classmates for review. Revise the content based on reviewer feedback. Follow this multistep process until the written product is appropriate for publication on a web site.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.3 Optical Illusions",
+      "2.3 Playlist Creator",
+      "3.3 Epic Mission",
+      "4.3 Mystery Mansion",
+      "5.3 Code Corporation"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "8.1",
+    "Standard Text": "Research various logos of well-known companies and organizations on the web. Identify shapes and colors that are consistently used, and include examples of what made the logos unique, attractive, and memorable. ",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "3.2 Festival Planner",
+      "3.1 Awards Show",
+      "3.3 Epic Mission",
+      "3.4 Choose Your Fighter",
+      "3.5 Meme Museum",
+      "3.6 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "8.2",
+    "Standard Text": "Drawing from various resources, identify several ways that a web designer can apply and strengthen brand management and identity. Consider the concepts consistent color and logo placement and explain the application of each.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "2.1 Shopping Spree",
+      "2.2 Restaurant Menu",
+      "2.3 Playlist Creator",
+      "2.4 Endangered Species",
+      "2.5 This or That",
+      "2.6 Passion Project",
+      "3.1 Awards Show",
+      "3.2 Festival Planner",
+      "3.3 Epic Mission",
+      "3.4 Choose Your Fighter",
+      "3.5 Meme Museum",
+      "3.6 Passion Project",
+      "4.1 Digital Pet",
+      "4.2 Postify",
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "8.3",
+    "Standard Text": "Investigate how to set up and implement a secure e-commerce site. Citing evidence from reliable resources, describe 1) measures to prevent shopping cart vulnerabilities, 2) pre-built shopping software, and 3) hosting options for shopping cart software. ",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "8.4",
+    "Standard Text": "In teams, examine how demographics, psychographics, and audience data are used to market a product or service online. Using this information, create a questionnaire to survey people about a product or service. For example, the questionnaire could survey alternative promotion methods, market growth drivers and barriers.",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "8.5",
+    "Standard Text": "As a team, use the survey results and develop a marketing plan that identifies the following for a web development project. a. Promotions for both global (mass) and niche (micro) markets b. Web marketing strategies and goals c. Market growth drivers and barriers d. Product distribution and availability e. Product or service pricing f. Advertising options to be used (e.g., links, banner ads, viral marketing, social media)",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "9.1",
+    "Standard Text": "Research the history of markup languages; briefly describe the function of markup languages and why they are different from programming languages.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.1 I'm Hungry",
+      "1.2 Fan Review",
+      "1.3 Optical Illusions",
+      "1.4 Two Truths One Lie",
+      "1.5 Cheer Up!",
+      "1.6 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "9.2",
+    "Standard Text": "Explore the origin of the HTML standard and creation of the World Wide Web Consortium (W3C). Discuss the six versions of the HTML standard and how each differs from the other. Explain the role of standardization and provide examples of how it promotes universality for all web users.",
+    "Course Name": "Web Development",
+    "Project Name": []
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "9.3",
+    "Standard Text": "Define HTML tags distinguishing between empty tags and container tags. Explain their application to web development, why Hypertext Markup Language (HTML) evolved, and provide examples of tags frequently used. Create a simple web page that consists of paragraph text, text hyperlinks, tables, and elements in frames. ",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.1 I'm Hungry",
+      "1.2 Fan Review",
+      "1.3 Optical Illusions",
+      "1.4 Two Truths One Lie",
+      "1.5 Cheer Up!",
+      "1.6 Passion Project",
+      "2.1 Shopping Spree",
+      "2.2 Restaurant Menu",
+      "2.3 Playlist Creator",
+      "2.4 Endangered Species",
+      "2.5 This or That",
+      "2.6 Passion Project",
+      "3.1 Awards Show",
+      "3.2 Festival Planner",
+      "3.3 Epic Mission",
+      "3.4 Choose Your Fighter",
+      "3.5 Meme Museum",
+      "3.6 Passion Project",
+      "4.1 Digital Pet",
+      "4.2 Postify",
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "9.4",
+    "Standard Text": "Demonstrate understanding of Cascading Style Sheets (CSS). Investigate and report how CSS separate formatting elements from HTML and solve a number of design limitations like: a. proprietary HTML extensions, b. text-to-image conversion to retain fonts, c. page layout using tables, and d. images controlling white space.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.1 I'm Hungry",
+      "1.2 Fan Review",
+      "1.3 Optical Illusions",
+      "1.4 Two Truths One Lie",
+      "1.5 Cheer Up!",
+      "1.6 Passion Project",
+      "2.1 Shopping Spree",
+      "2.2 Restaurant Menu",
+      "2.3 Playlist Creator",
+      "2.4 Endangered Species",
+      "2.5 This or That",
+      "2.6 Passion Project",
+      "3.1 Awards Show",
+      "3.2 Festival Planner",
+      "3.3 Epic Mission",
+      "3.4 Choose Your Fighter",
+      "3.5 Meme Museum",
+      "3.6 Passion Project",
+      "4.1 Digital Pet",
+      "4.2 Postify",
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "9.5",
+    "Standard Text": "Explore the use of Cascading Style Sheets (CSS) for page layout and cite evidence why CSS provides more flexible and precise layout capabilities than tables and frames. Explain and demonstrate coding for the following elements of CSS page layout. a. CSS box model (e.g., inline, block) b. Document flow and positioning (e.g., static, relative, absolute, fixed, float, z-index) c. CSS positioning schemes (e.g., two-column layout, three-column layout)",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.1 I'm Hungry",
+      "1.3 Optical Illusions",
+      "1.2 Fan Review",
+      "1.4 Two Truths One Lie",
+      "1.5 Cheer Up!",
+      "1.6 Passion Project",
+      "2.1 Shopping Spree",
+      "2.2 Restaurant Menu",
+      "2.3 Playlist Creator",
+      "2.4 Endangered Species",
+      "2.5 This or That",
+      "2.6 Passion Project",
+      "3.2 Festival Planner",
+      "3.1 Awards Show",
+      "3.3 Epic Mission",
+      "3.4 Choose Your Fighter",
+      "3.5 Meme Museum",
+      "3.6 Passion Project",
+      "4.1 Digital Pet",
+      "4.3 Mystery Mansion",
+      "4.2 Postify",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "10.2",
+    "Standard Text": "As a class, define the guidelines for effective use of file and folder management techniques to maintain directory structure for forthcoming web site class projects. The guidelines should address efficient methods for maintaining site root and subfolders for assets (e.g., images, templates, CSS), as well as the correct way to use file paths for relative, site root relative, and absolute links.",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.1 Product Insights",
+      "5.2 Personal Portfolio",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  },
+  {
+    "State": "Tennessee",
+    "Grade": "10 - Web Design Foundations",
+    "Standard ID": "11.1",
+    "Standard Text": "Troubleshooting and formal testing is a systematic quality assurance process and should be routinely completed throughout the life cycle of a web site. There are various multistep testing procedures for a web site. The following recommendations provide a general approach to testing:  a. review the content for accuracy, spelling, and grammar; b. review site for broken links; c. test the functionality of the web site as defined by the project specifications; d. validate the HTML and CSS coding; e. check the accessibility using automated tools; f. test site on various browsers that the target audience uses; g. analyze the connection speed and size of web pages; h. conduct usability testing with target audience; i. work with the server administrator to conduct load testing; and j. conduct authentication testing and review file authorizations. As a class, develop a quality assurance plan that incorporates the above testing procedures, as well as outlines how the testing will be managed, how the issues will be prioritized, and how problems will be solved. ",
+    "Course Name": "Web Development",
+    "Project Name": [
+      "1.1 I'm Hungry",
+      "1.2 Fan Review",
+      "1.3 Optical Illusions",
+      "1.4 Two Truths One Lie",
+      "1.5 Cheer Up!",
+      "1.6 Passion Project",
+      "2.1 Shopping Spree",
+      "2.2 Restaurant Menu",
+      "2.3 Playlist Creator",
+      "2.4 Endangered Species",
+      "2.5 This or That",
+      "2.6 Passion Project",
+      "3.1 Awards Show",
+      "3.2 Festival Planner",
+      "3.3 Epic Mission",
+      "3.4 Choose Your Fighter",
+      "3.5 Meme Museum",
+      "3.6 Passion Project",
+      "4.1 Digital Pet",
+      "4.2 Postify",
+      "4.3 Mystery Mansion",
+      "4.4 Personality Quizmaker",
+      "4.5 Passion Project",
+      "5.2 Personal Portfolio",
+      "5.1 Product Insights",
+      "5.3 Code Corporation",
+      "5.4 Life Frame",
+      "5.5 Passion Project"
+    ]
+  }
+]
