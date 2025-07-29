@@ -248,4 +248,22 @@ document.addEventListener("DOMContentLoaded", () => {
 
     tbody.appendChild(summaryTr);
   }
+  const printBtn = document.createElement("button");
+  printBtn.textContent = "Print";
+  printBtn.style.marginTop = "1rem";
+  printBtn.style.padding = "8px 16px";
+  printBtn.style.border = "none";
+  printBtn.style.borderRadius = "4px";
+  printBtn.style.backgroundColor = "#5C71F2";
+  printBtn.style.color = "#fff";
+  printBtn.style.fontSize = "14px";
+  printBtn.style.cursor = "pointer";
+  printBtn.addEventListener("click", () => {
+    window.print();
+  });
+  const controls = document.getElementById("controls");
+  if (controls) {
+    printBtn.style.marginLeft = "auto";
+    controls.appendChild(printBtn);
+  }
 });
