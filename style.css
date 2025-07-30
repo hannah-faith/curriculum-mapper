@@ -3,14 +3,23 @@ body {
   margin: 20px;
   background-color: #f4f6f9;
   color: #333;
+  padding-top: 45px;
+  padding-bottom: 40px;
 }
 
 #controls {
-  margin-bottom: 20px;
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
   align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 20px;
+  padding-bottom: 20px;
+  width: 100%;
+  z-index: 1000;
+  background-color: #f4f6f9;
 }
 
 #controls select {
@@ -22,13 +31,19 @@ body {
   margin-right: 10px;
 }
 
+#alignmentTable thead th {
+  position: sticky;
+  top: 60px;
+  background-color: #eaf0f6;
+  z-index: 900;
+}
+
 #alignmentTable {
   width: 100%;
   border-collapse: collapse;
   background-color: #fff;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
   border-radius: 6px;
-  overflow: hidden;
 }
 
 #alignmentTable th,
@@ -78,4 +93,60 @@ body {
 #alignmentTable th:nth-child(1),
 #alignmentTable td:nth-child(1) {
   width: 37.5%;
+}
+
+#alignmentTable tbody tr.summary-row {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #fff;
+}
+
+#printBtn {
+  margin-left: auto;
+  margin-right: 2rem;
+  padding: 6px 16px;
+  border: none;
+  border-radius: 4px;
+  background-color: #5C71F2;
+  color: #fff;
+  font-size: 13px;
+  cursor: pointer;
+}
+
+@media print {
+  /* prevent browser stamping fixed headers on every page */
+  thead {
+    display: table-row-group !important;
+  }
+
+  #controls,
+  #alignmentTable thead tr {
+    position: static !important;
+  }
+
+  /* ensure summary row prints in its natural spot (the end of the table) */
+  #alignmentTable tbody tr.summary-row {
+    position: static !important;
+    display: table-row !important;
+  }
+
+  /* removes extra padding at top */
+  body {
+    padding-top: 0 !important;
+    background-color: transparent;
+  }
+
+  /* keep all controls on one line */
+  #controls {
+    flex-wrap: nowrap !important;
+    background-color: transparent;
+    padding-left: 0;
+  }
+
+  /* hide download/print button in print */
+  #printBtn {
+    display: none !important;
+  }
 }
