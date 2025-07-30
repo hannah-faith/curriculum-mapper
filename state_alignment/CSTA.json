@@ -399,14 +399,6 @@
   {
     "State": "CSTA",
     "Grade": "3-5",
-    "Standard ID": "",
-    "Standard Text": "",
-    "Course Name": "CS Breakthroughs with VR",
-    "Project Name": ["0.9 VR Tutorial"]
-  },
-  {
-    "State": "CSTA",
-    "Grade": "3-5",
     "Standard ID": "1B-AP-11",
     "Standard Text": "Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.",
     "Course Name": "CS Breakthroughs with VR",

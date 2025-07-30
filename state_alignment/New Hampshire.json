@@ -1,6 +1,6 @@
 [
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-IC-16",
     "Standard Text": "Compare how people live and work before and after the implementation or adoption of new computing technology.",
@@ -8,7 +8,7 @@
     "Project Name": ["0.1 Technology Then and Now"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-CS-02",
     "Standard Text": "Use appropriate terminology in identifying and describing the function of common physical components of computing systems (hardware).",
@@ -34,7 +34,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-08",
     "Standard Text": "Model daily processes by creating and following algorithms (sets of step-by-step instructions) to complete tasks.",
@@ -51,7 +51,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-11",
     "Standard Text": "Decompose (break down) the steps needed to solve a problem into a precise sequence of instructions.",
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-NI-04",
     "Standard Text": "Explain what passwords are and why we use them, and use strong passwords to protect devices and information from unauthorized access.",
@@ -75,7 +75,7 @@
     "Project Name": ["0.4 Screen Smarties", "0.5 Click Clever"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-IC-17",
     "Standard Text": "Work respectfully and responsibly with others online.",
@@ -102,7 +102,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-IC-18",
     "Standard Text": "Keep login information private, and log off of devices appropriately.",
@@ -129,7 +129,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-09",
     "Standard Text": "Model the way programs store and manipulate data by using numbers or other symbols to represent information.",
@@ -145,7 +145,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-13",
     "Standard Text": "Give attribution when using the ideas and creations of others while developing programs.",
@@ -161,7 +161,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-15",
     "Standard Text": "Using correct terminology, describe steps taken and choices made during the iterative process of program development.",
@@ -186,7 +186,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-DA-06",
     "Standard Text": "Collect and present the same data in various visual formats.",
@@ -194,7 +194,7 @@
     "Project Name": ["0.8 Data Discovery"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-DA-07",
     "Standard Text": "Identify and describe patterns in data visualizations, such as charts or graphs, to make predictions.",
@@ -202,7 +202,7 @@
     "Project Name": ["0.8 Data Discovery"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-CS-01",
     "Standard Text": "Select and operate appropriate software to perform a variety of tasks, and recognize that users have different needs and preferences for the technology they use.",
@@ -210,7 +210,7 @@
     "Project Name": ["0.9 Google Slides Playground", "0.10 Scavenger Hunt"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-CS-03",
     "Standard Text": "Describe basic hardware and software problems using accurate terminology.",
@@ -235,7 +235,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-DA-05",
     "Standard Text": "Store, copy, search, retrieve, modify, and delete information using a computing device and define the information stored as data.",
@@ -243,7 +243,7 @@
     "Project Name": ["0.9 Google Slides Playground", "0.10 Scavenger Hunt"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-10",
     "Standard Text": "Model the way programs store and manipulate data by using numbers or other symbols to represent information.",
@@ -258,7 +258,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-12",
     "Standard Text": "Develop plans that describe a program\u2019s sequence of events, goals, and expected outcomes.",
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "K-2",
     "Standard ID": "1A-AP-14",
     "Standard Text": "Debug (identify and fix) errors in an algorithm or program that includes sequences and simple loops.",
@@ -288,7 +288,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-NI-05",
     "Standard Text": "Discuss real-world cybersecurity problems and how personal information can be protected.",
@@ -301,7 +301,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-CS-01",
     "Standard Text": "Discuss real-world cybersecurity problems and how personal information can be protected.",
@@ -309,7 +309,7 @@
     "Project Name": ["0.3 Journey Through Computer Systems"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-CS-02",
     "Standard Text": "Model how computer hardware and software work together as a system to accomplish tasks.",
@@ -317,7 +317,7 @@
     "Project Name": ["0.3 Journey Through Computer Systems"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-NI-04",
     "Standard Text": "Model how information is broken down into smaller pieces, transmitted as packets through multiple devices over networks and the Internet, and reassembled at the destination.",
@@ -325,7 +325,7 @@
     "Project Name": ["0.3 Journey Through Computer Systems"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-IC-18",
     "Standard Text": "Discuss computing technologies that have changed the world, and express how those technologies influence, and are influenced by, cultural practices.",
@@ -333,7 +333,7 @@
     "Project Name": ["0.4 Technology Transformations"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-IC-19",
     "Standard Text": "Brainstorm ways to improve the accessibility and usability of technology products for the diverse needs and wants of users.",
@@ -341,7 +341,7 @@
     "Project Name": ["0.4 Technology Transformations"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-IC-21",
     "Standard Text": "Use public domain or creative commons media, and refrain from copying or using material created by others without permission.",
@@ -352,7 +352,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-DA-06",
     "Standard Text": "Organize and present collected data visually to highlight relationships and support a claim.",
@@ -360,7 +360,7 @@
     "Project Name": ["0.6 Data Detectives"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-DA-07",
     "Standard Text": "Use data to highlight or propose cause-and-effect relationships, predict outcomes, or communicate an idea.",
@@ -368,7 +368,7 @@
     "Project Name": ["0.6 Data Detectives"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-CS-03",
     "Standard Text": "Determine potential solutions to solve simple hardware and software problems using common troubleshooting strategies.",
@@ -397,15 +397,7 @@
     ]
   },
   {
-    "State": "CSTA",
-    "Grade": "3-5",
-    "Standard ID": "",
-    "Standard Text": "",
-    "Course Name": "CS Breakthroughs with VR",
-    "Project Name": ["0.9 VR Tutorial"]
-  },
-  {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-11",
     "Standard Text": "Decompose (break down) problems into smaller, manageable subproblems to facilitate the program development process.",
@@ -433,7 +425,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-12",
     "Standard Text": "Modify, remix, or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features.",
@@ -461,7 +453,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-14",
     "Standard Text": "Observe intellectual property rights and give appropriate attribution when creating or remixing programs.",
@@ -489,7 +481,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-13",
     "Standard Text": "Use an iterative process to plan the development of a program by including others' perspectives and considering user preferences.",
@@ -503,7 +495,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-16",
     "Standard Text": "Take on varying roles, with teacher guidance, when collaborating with peers during the design, implementation, and review stages of program development.",
@@ -517,7 +509,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-17",
     "Standard Text": "Describe choices made during program development using code comments, presentations, and demonstrations.",
@@ -531,7 +523,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-IC-20",
     "Standard Text": "Seek diverse perspectives for the purpose of improving computational artifacts.",
@@ -545,7 +537,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-08",
     "Standard Text": "Compare and refine multiple algorithms for the same task and determine which is the most appropriate.",
@@ -569,7 +561,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-10",
     "Standard Text": "Create programs that include sequences, events, loops, and conditionals.",
@@ -593,7 +585,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-15",
     "Standard Text": "Test and debug (identify and fix errors) a program or algorithm to ensure it runs as intended.",
@@ -617,7 +609,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "3-5",
     "Standard ID": "1B-AP-09",
     "Standard Text": "Create programs that use variables to store and modify data.",
@@ -633,7 +625,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-CS-01",
     "Standard Text": "Recommend improvements to the design of computing devices, based on an analysis of how users interact with the devices.",
@@ -661,7 +653,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-IC-22",
     "Standard Text": "Collaborate with many contributors through strategies such as crowdsourcing or surveys when creating a computational artifact.",
@@ -669,7 +661,7 @@
     "Project Name": ["0.1 Fantastic Features", "0.6 Data Comes to Life"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-DA-07",
     "Standard Text": "Represent data using multiple encoding schemes.",
@@ -677,7 +669,7 @@
     "Project Name": ["0.2 Data on the Move!"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-NI-04",
     "Standard Text": "Model the role of protocols in transmitting data across networks and the Internet.",
@@ -685,7 +677,7 @@
     "Project Name": ["0.3 The Internet & You"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-NI-05",
     "Standard Text": "Explain how physical and digital security measures protect electronic information.",
@@ -693,7 +685,7 @@
     "Project Name": ["0.3 The Internet & You"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-NI-06",
     "Standard Text": "Apply multiple methods of encryption to model the secure transmission of information.",
@@ -701,7 +693,7 @@
     "Project Name": ["0.3 The Internet & You"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-IC-23",
     "Standard Text": "Describe tradeoffs between allowing information to be public and keeping information private and secure.",
@@ -709,7 +701,7 @@
     "Project Name": ["0.3 The Internet & You"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-CS-02",
     "Standard Text": "Design projects that combine hardware and software components to collect and exchange data.",
@@ -717,7 +709,7 @@
     "Project Name": ["0.4 Digital Device Design"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-10",
     "Standard Text": "Use flowcharts and/or pseudocode to address complex problems as algorithms.",
@@ -740,7 +732,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-IC-20",
     "Standard Text": "Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options.",
@@ -748,7 +740,7 @@
     "Project Name": ["0.5 Coding Superheroes"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-DA-08",
     "Standard Text": "Collect data using computational tools and transform the data to make it more useful and reliable.",
@@ -756,7 +748,7 @@
     "Project Name": ["0.6 Data Comes to Life"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-DA-09",
     "Standard Text": "Refine computational models based on the data they have generated.",
@@ -764,7 +756,7 @@
     "Project Name": ["0.6 Data Comes to Life"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-CS-03",
     "Standard Text": "Systematically identify and fix problems with computing devices and their components.",
@@ -772,7 +764,7 @@
     "Project Name": ["0.7 VR Tutorial"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-13",
     "Standard Text": "Decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs.",
@@ -814,7 +806,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-15",
     "Standard Text": "Seek and incorporate feedback from team members and users to refine a solution that meets user needs.",
@@ -831,7 +823,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-17",
     "Standard Text": "Systematically test and refine programs using a range of test cases.",
@@ -867,7 +859,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-18",
     "Standard Text": "Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.",
@@ -884,7 +876,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-IC-21",
     "Standard Text": "Discuss issues of bias and accessibility in the design of existing technologies.",
@@ -892,7 +884,7 @@
     "Project Name": ["0.8 Underwater"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-11",
     "Standard Text": "Create clearly named variables that represent different data types and perform operations on their values.",
@@ -926,7 +918,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-19",
     "Standard Text": "Document programs in order to make them easier to follow, test, and debug.",
@@ -960,7 +952,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-12",
     "Standard Text": "Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals.",
@@ -988,7 +980,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-16",
     "Standard Text": "Incorporate existing code, media, and libraries into original programs, and give attribution.",
@@ -1010,7 +1002,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-14",
     "Standard Text": "Create procedures with parameters to organize code and make it easier to reuse.",
@@ -1025,7 +1017,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-CS-01",
     "Standard Text": "Explain how abstractions hide the underlying implementation details of computing systems embedded in everyday objects.",
@@ -1067,7 +1059,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-24",
     "Standard Text": "Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",
@@ -1075,7 +1067,7 @@
     "Project Name": ["0.1 Prototyping Our Future"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-CS-02",
     "Standard Text": "Compare levels of abstraction and interactions between application software, system software, and hardware layers.",
@@ -1083,7 +1075,7 @@
     "Project Name": ["0.2 Inside Your Computer"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-09",
     "Standard Text": "Translate between different bit representations of real-world phenomena, such as characters, numbers, and images.",
@@ -1091,7 +1083,7 @@
     "Project Name": ["0.3 Coded Messages"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-17",
     "Standard Text": "Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects.",
@@ -1125,7 +1117,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-NI-04",
     "Standard Text": "Evaluate the scalability and reliability of networks, by describing the relationship between routers, switches, servers, topology, and addressing.",
@@ -1133,7 +1125,7 @@
     "Project Name": ["0.5 Computer Networks"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-NI-05",
     "Standard Text": "Give examples to illustrate how sensitive data can be affected by malware and other attacks.",
@@ -1141,7 +1133,7 @@
     "Project Name": ["0.5 Computer Networks"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-NI-06",
     "Standard Text": "Recommend security measures to address various scenarios based on factors such as efficiency, feasibility, and ethical impacts.",
@@ -1149,7 +1141,7 @@
     "Project Name": ["0.5 Computer Networks"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-NI-07",
     "Standard Text": "Compare various security measures, considering tradeoffs between the usability and security of a computing system.",
@@ -1157,7 +1149,7 @@
     "Project Name": ["0.5 Computer Networks"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-NI-08",
     "Standard Text": "Explain tradeoffs when selecting and implementing cybersecurity recommendations.",
@@ -1165,7 +1157,7 @@
     "Project Name": ["0.5 Computer Networks"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-10",
     "Standard Text": "Evaluate the tradeoffs in how data elements are organized and where data is stored.",
@@ -1173,7 +1165,7 @@
     "Project Name": ["0.6 Data Story"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-11",
     "Standard Text": "Create interactive data visualizations using software tools to help others better understand real-world phenomena.",
@@ -1181,7 +1173,7 @@
     "Project Name": ["0.6 Data Story"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-12",
     "Standard Text": "Create computational models that represent the relationships among different elements of data collected from a phenomenon or process.",
@@ -1189,7 +1181,7 @@
     "Project Name": ["0.6 Data Story"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-21",
     "Standard Text": "Evaluate and refine computational artifacts to make them more usable and accessible.",
@@ -1230,7 +1222,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-CS-03",
     "Standard Text": "Develop guidelines that convey systematic troubleshooting strategies that others can use to identify and fix errors.",
@@ -1271,7 +1263,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-27",
     "Standard Text": "Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields.",
@@ -1279,7 +1271,7 @@
     "Project Name": ["0.8 Leaders in Technology"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-28",
     "Standard Text": "Explain the beneficial and harmful effects that intellectual property laws can have on innovation.",
@@ -1287,7 +1279,7 @@
     "Project Name": ["0.8 Leaders in Technology"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-29",
     "Standard Text": "Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.",
@@ -1295,7 +1287,7 @@
     "Project Name": ["0.8 Leaders in Technology"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-30",
     "Standard Text": "Evaluate the social and economic implications of privacy in the context of safety, law, or ethics.",
@@ -1303,7 +1295,7 @@
     "Project Name": ["0.8 Leaders in Technology"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-13",
     "Standard Text": "Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.",
@@ -1343,7 +1335,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-16",
     "Standard Text": "Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.",
@@ -1383,7 +1375,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-19",
     "Standard Text": "Systematically design and develop programs for broad audiences by incorporating feedback from users.",
@@ -1423,7 +1415,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-20",
     "Standard Text": "Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries.",
@@ -1463,7 +1455,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-23",
     "Standard Text": "Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.",
@@ -1503,7 +1495,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-25",
     "Standard Text": "Test and refine computational artifacts to reduce bias and equity deficits.",
@@ -1511,7 +1503,7 @@
     "Project Name": ["1.2 City Builder"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-22",
     "Standard Text": "Design and develop computational artifacts working in team roles using collaborative tools.",
@@ -1526,7 +1518,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-15",
     "Standard Text": "Justify the selection of specific control structures when tradeoffs involve implementation, readability, and program performance, and explain the benefits and drawbacks of choices made.",
@@ -1560,7 +1552,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-18",
     "Standard Text": "Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.",
@@ -1593,7 +1585,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-26",
     "Standard Text": "Demonstrate ways a given algorithm applies to problems across disciplines.",
@@ -1601,7 +1593,7 @@
     "Project Name": ["Capstone #1 Solar System Landing"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-14",
     "Standard Text": "Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.",
@@ -1628,7 +1620,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-13",
     "Standard Text": "Decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs.",
@@ -1665,7 +1657,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-17",
     "Standard Text": "Systematically test and refine programs using a range of test cases.",
@@ -1702,7 +1694,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-19",
     "Standard Text": "Systematically design and develop programs for broad audiences by incorporating feedback from users.",
@@ -1739,7 +1731,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-21",
     "Standard Text": "Evaluate and refine computational artifacts to make them more usable and accessible.",
@@ -1776,7 +1768,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-15",
     "Standard Text": "Seek and incorporate feedback from team members and users to refine a solution that meets user needs.",
@@ -1790,7 +1782,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-18",
     "Standard Text": "Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.",
@@ -1803,7 +1795,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-22",
     "Standard Text": "Design and develop computational artifacts working in team roles using collaborative tools.",
@@ -1817,7 +1809,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-23",
     "Standard Text": "Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.",
@@ -1839,7 +1831,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-11",
     "Standard Text": "Create clearly named variables that represent different data types and perform operations on their values.",
@@ -1858,7 +1850,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-19",
     "Standard Text": "Document programs in order to make them easier to follow, test, and debug.",
@@ -1877,7 +1869,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-13",
     "Standard Text": "Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.",
@@ -1896,7 +1888,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-16",
     "Standard Text": "Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.",
@@ -1915,7 +1907,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-17",
     "Standard Text": "Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects.",
@@ -1934,7 +1926,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-10",
     "Standard Text": "Use flowcharts and/or pseudocode to address complex problems as algorithms.",
@@ -1942,7 +1934,7 @@
     "Project Name": ["4.3 Mystery Manor"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-14",
     "Standard Text": "Create procedures with parameters to organize code and make it easier to reuse.",
@@ -1956,7 +1948,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-18",
     "Standard Text": "Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.",
@@ -1964,7 +1956,7 @@
     "Project Name": [""]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-10",
     "Standard Text": "Use flowcharts and/or pseudocode to address complex problems as algorithms.",
@@ -2009,7 +2001,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-13",
     "Standard Text": "Decompose problems and subproblems into parts to facilitate the design, implementation, and review of programs.",
@@ -2054,7 +2046,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-17",
     "Standard Text": "Systematically test and refine programs using a range of test cases.",
@@ -2099,7 +2091,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-13",
     "Standard Text": "Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.",
@@ -2144,7 +2136,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-11",
     "Standard Text": "Create clearly named variables that represent different data types and perform operations on their values.",
@@ -2188,7 +2180,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-19",
     "Standard Text": "Document programs in order to make them easier to follow, test, and debug.",
@@ -2232,7 +2224,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-15",
     "Standard Text": "Seek and incorporate feedback from team members and users to refine a solution that meets user needs.",
@@ -2249,7 +2241,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-18",
     "Standard Text": "Distribute tasks and maintain a project timeline when collaboratively developing computational artifacts.",
@@ -2266,7 +2258,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-19",
     "Standard Text": "Systematically design and develop programs for broad audiences by incorporating feedback from users.",
@@ -2283,7 +2275,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-21",
     "Standard Text": "Evaluate and refine computational artifacts to make them more usable and accessible.",
@@ -2303,7 +2295,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-22",
     "Standard Text": "Design and develop computational artifacts working in team roles using collaborative tools.",
@@ -2320,7 +2312,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-23",
     "Standard Text": "Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.",
@@ -2340,7 +2332,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-12",
     "Standard Text": "Design and iteratively develop programs that combine control structures, including nested loops and compound conditionals.",
@@ -2372,7 +2364,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-15",
     "Standard Text": "Justify the selection of specific control structures when tradeoffs involve implementation, readability, and program performance, and explain the benefits and drawbacks of choices made.",
@@ -2404,7 +2396,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-16",
     "Standard Text": "Incorporate existing code, media, and libraries into original programs, and give attribution.",
@@ -2430,7 +2422,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-14",
     "Standard Text": "Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.",
@@ -2456,7 +2448,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-16",
     "Standard Text": "Design and iteratively develop computational artifacts for practical intent, personal expression, or to address a societal issue by using events to initiate instructions.",
@@ -2475,7 +2467,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "6-8",
     "Standard ID": "2-AP-14",
     "Standard Text": "Create procedures with parameters to organize code and make it easier to reuse.",
@@ -2488,7 +2480,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-17",
     "Standard Text": "Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects.",
@@ -2501,7 +2493,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-18",
     "Standard Text": "Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.",
@@ -2514,7 +2506,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-13",
     "Standard Text": "Create prototypes that use algorithms to solve computational problems by leveraging prior student knowledge and personal interests.",
@@ -2552,7 +2544,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-14",
     "Standard Text": "Use lists to simplify solutions, generalizing computational problems instead of repeatedly using simple variables.",
@@ -2590,7 +2582,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-15",
     "Standard Text": "Justify the selection of specific control structures when tradeoffs involve implementation, readability, and program performance, and explain the benefits and drawbacks of choices made.",
@@ -2628,7 +2620,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-17",
     "Standard Text": "Decompose problems into smaller components through systematic analysis, using constructs such as procedures, modules, and/or objects.",
@@ -2666,7 +2658,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-18",
     "Standard Text": "Create artifacts by using procedures within a program, combinations of data and procedures, or independent but interrelated programs.",
@@ -2704,7 +2696,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-08",
     "Standard Text": "Describe how artificial intelligence drives many software and physical systems.",
@@ -2720,7 +2712,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-14",
     "Standard Text": "Construct solutions to problems using student-created components, such as procedures, modules and/or objects.",
@@ -2758,7 +2750,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-21",
     "Standard Text": "Develop and use a series of test cases to verify that a program performs according to its design specifications.",
@@ -2796,7 +2788,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-19",
     "Standard Text": "Systematically design and develop programs for broad audiences by incorporating feedback from users.",
@@ -2812,7 +2804,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-21",
     "Standard Text": "Evaluate and refine computational artifacts to make them more usable and accessible.",
@@ -2828,7 +2820,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-22",
     "Standard Text": "Design and develop computational artifacts working in team roles using collaborative tools.",
@@ -2843,7 +2835,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-23",
     "Standard Text": "Document design decisions using text, graphics, presentations, and/or demonstrations in the development of complex programs.",
@@ -2859,7 +2851,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-20",
     "Standard Text": "Use version control systems, integrated development environments (IDEs), and collaborative tools and practices (code documentation) in a group software project.",
@@ -2875,7 +2867,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-12",
     "Standard Text": "Create computational models that represent the relationships among different elements of data collected from a phenomenon or process.",
@@ -2909,7 +2901,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-DA-05",
     "Standard Text": "Use data analysis tools and techniques to identify patterns in data representing complex systems.",
@@ -2943,7 +2935,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-DA-06",
     "Standard Text": "Select data collection tools and techniques to generate data sets that support a claim or communicate information.",
@@ -2977,7 +2969,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-24",
     "Standard Text": "Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.",
@@ -2988,7 +2980,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-25",
     "Standard Text": "Test and refine computational artifacts to reduce bias and equity deficits.",
@@ -2999,7 +2991,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-26",
     "Standard Text": "Demonstrate ways a given algorithm applies to problems across disciplines.",
@@ -3010,7 +3002,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-DA-07",
     "Standard Text": "Evaluate the ability of models and simulations to test and support the refinement of hypotheses.",
@@ -3026,7 +3018,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-IC-25",
     "Standard Text": "Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.",
@@ -3037,7 +3029,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-IC-26",
     "Standard Text": "Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society.",
@@ -3048,7 +3040,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-IC-29",
     "Standard Text": "Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.",
@@ -3056,7 +3048,7 @@
     "Project Name": ["Capstone #1 Bike Share Planning"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-15",
     "Standard Text": "Analyze a large-scale computational problem and identify generalizable patterns that can be applied to a solution.",
@@ -3064,7 +3056,7 @@
     "Project Name": ["Capstone #1 Bike Share Planning"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-11",
     "Standard Text": "Create interactive data visualizations using software tools to help others better understand real-world phenomena.",
@@ -3082,7 +3074,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-16",
     "Standard Text": "Demonstrate code reuse by creating programming solutions using libraries and APIs.",
@@ -3102,7 +3094,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-10",
     "Standard Text": "Evaluate the tradeoffs in how data elements are organized and where data is stored.",
@@ -3116,7 +3108,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-DA-11",
     "Standard Text": "Create interactive data visualizations using software tools to help others better understand real-world phenomena.",
@@ -3124,7 +3116,7 @@
     "Project Name": ["5.1 Roll Call", "5.2 Sequel"]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-09",
     "Standard Text": "Implement an artificial intelligence algorithm to play a game against a human opponent or solve a problem.",
@@ -3138,7 +3130,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-IC-27",
     "Standard Text": "Predict how computational innovations that have revolutionized aspects of our culture might evolve.",
@@ -3152,7 +3144,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-20",
     "Standard Text": "Evaluate licenses that limit or restrict use of computational artifacts when using resources such as libraries.",
@@ -3166,7 +3158,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-10",
     "Standard Text": "Use and adapt classic algorithms to solve computational problems.",
@@ -3179,7 +3171,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "11-12",
     "Standard ID": "3B-AP-11",
     "Standard Text": "Evaluate algorithms in terms of their efficiency, correctness, and clarity.",
@@ -3192,7 +3184,7 @@
     ]
   },
   {
-    "State": "CSTA",
+    "State": "New Hampshire",
     "Grade": "9-10",
     "Standard ID": "3A-AP-22",
     "Standard Text": "Design and develop computational artifacts working in team roles using collaborative tools.",
